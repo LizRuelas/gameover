@@ -1,0 +1,27 @@
+body {
+	background-image: url(../img/fondo2.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.enlace{
+	text-decoration: none;
+	margin : 9px;
+}
+
+.foto {
+	height: 250px;
+	width: 250px;
+	border-radius: 250px;
+	margin-bottom: 30px;
+	background-color: orange;
+}
+
+.contenedor {
+	display: inline-block;
+	margin-top: 150px;
+    margin-left: 90px;
+}
+#max-contenedor {
+	margin-left: 170px;
+}
